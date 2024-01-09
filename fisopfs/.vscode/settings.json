@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "fuse.h": "c",
+        "structs_serializacion": "c",
+        "dirent.h": "c",
+        "stdio.h": "c"
+    }
+}
